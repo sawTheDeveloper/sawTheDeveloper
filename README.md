@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sawTheDeveloper
 - 👀 I’m interested in Marvel
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on mobile apps 
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on web apps 
 - 📫 How to reach me however you see fit
 
 <!---
